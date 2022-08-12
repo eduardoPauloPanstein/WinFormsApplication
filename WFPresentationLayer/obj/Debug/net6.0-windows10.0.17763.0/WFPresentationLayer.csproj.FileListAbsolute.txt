@@ -1,0 +1,180 @@
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormClientes.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormEntradaProdutos.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFornecedores.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFuncionarios.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLaboratorios.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLogin.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormPrincipal.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormProdutos.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormSaidaProdutos.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.exe
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.deps.json
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.runtimeconfig.json
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\sni.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x64\native\sni.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x86\native\sni.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.pdb
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.pdb
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.pdb
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.pdb
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.Properties.Resources.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CopyComplete
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\refint\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\ref\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\FontAwesome.Sharp.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.exe
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.deps.json
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.runtimeconfig.json
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\FontAwesome.Sharp.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\System.Data.SqlClient.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\sni.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x64\native\sni.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x86\native\sni.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.pdb
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.pdb
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.pdb
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.pdb
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormClientes.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormEntradaProdutos.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFornecedores.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFuncionarios.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLaboratorios.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLogin.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormPrincipal.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormProdutos.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormSaidaProdutos.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.Properties.Resources.resources
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CopyComplete
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\refint\WFPresentationLayer.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\ref\WFPresentationLayer.dll
+C:\Users\entra21\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormDashboard.resources
+C:\Users\paulo\Desktop\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormDashboard.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.exe
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.deps.json
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.runtimeconfig.json
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\FontAwesome.Sharp.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\sni.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x64\native\sni.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x86\native\sni.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.pdb
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.pdb
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.pdb
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.pdb
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormClientes.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormDashboard.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormEntradaProdutos.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFornecedores.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFuncionarios.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLaboratorios.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLogin.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormPrincipal.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormProdutos.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormSaidaProdutos.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.Properties.Resources.resources
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CopyComplete
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\refint\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\paulo\Desktop\estudos\Coisa antiga pra organizar\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\ref\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormClientes.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormDashboard.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormEntradaProdutos.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFornecedores.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormFuncionarios.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLaboratorios.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormLogin.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormPrincipal.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormProdutos.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.FormSaidaProdutos.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\refint\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.exe
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.deps.json
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.runtimeconfig.json
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.pdb
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\FontAwesome.Sharp.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\sni.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x64\native\sni.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win-x86\native\sni.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.dll
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\BusinessLogicalLayer.pdb
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\DataAccessLayer.pdb
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Entities.pdb
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\bin\Debug\net6.0-windows10.0.17763.0\Shared.pdb
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.Properties.Resources.resources
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.csproj.CopyComplete
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\WFPresentationLayer.genruntimeconfig.cache
+C:\Users\paulo\Desktop\Studys\Sistema Desktop para Famarcia ZyX\WFPresentationLayer\obj\Debug\net6.0-windows10.0.17763.0\ref\WFPresentationLayer.dll
